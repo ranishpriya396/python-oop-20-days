@@ -44,7 +44,7 @@ Build strong Python OOP fundamentals for:
 
 ## 🚀 Progress
 
-Started: September 2026
+Started: 9 September 2026
 
 Target: Complete 14 days consistently.
 
